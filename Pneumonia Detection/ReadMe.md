@@ -1,3 +1,5 @@
+<b>Project: PNEUMONIA DETECTION
+
 Pneumonia is a leading cause of morbidity and mortality in children younger than the age of 5 years, killing more children than HIV/AIDS, malaria, and measles combined.
 Chest X-rays are primarily used for the diagnosis of this disease. However, even for a trained radiologist, it is a challenging task to examine chest X-rays. 
 To solve the problem, we can use deep learning to extract hidden features, which are sometimes difficult to identify with naked eyes. Deep learning techniques can 
