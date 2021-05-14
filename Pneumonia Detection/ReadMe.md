@@ -1,4 +1,4 @@
-<b>Project: PNEUMONIA DETECTION
+<b>Project: PNEUMONIA DETECTION</b>
 
 Pneumonia is a leading cause of morbidity and mortality in children younger than the age of 5 years, killing more children than HIV/AIDS, malaria, and measles combined.
 Chest X-rays are primarily used for the diagnosis of this disease. However, even for a trained radiologist, it is a challenging task to examine chest X-rays. 
