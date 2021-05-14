@@ -17,7 +17,7 @@ Pneumonia from xray.
 -> Data Modelling
   - Data modelling is crucial part, which helps model to learn and identify patterns in to data.
   - In this project, I have used 4 different architectures to detect pneumonia in patient and compared their performances.
-    - Basic Model with (3 convolutions and 3 pooling alternatevly)
+    - Basic Model with (3 convolutions and 3 pooling alternately)
     - VGG16 Architecture
     - RESNET Architecture
     - Inception net
