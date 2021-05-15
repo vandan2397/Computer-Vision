@@ -29,9 +29,11 @@ Pneumonia from xray.
   - From the above comparison, it can be concluded that VGG16 architecture outperfoms other architectures for this dataset.
 
 -> Deployment
-  - Build a flask app to deploy the model on cloud platform HEROKU.
+  - Using VGG16 model, build a flask app to deploy the model on cloud platform HEROKU.
   - Results
   ![image](https://user-images.githubusercontent.com/55615788/118357994-63452900-b59a-11eb-9ead-9079747c1a22.png)
+  
+  
   
   
   
