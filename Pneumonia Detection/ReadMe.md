@@ -26,6 +26,7 @@ Pneumonia from xray.
   - To evaluate the performance of different models, I used precision, recall, and F1 score as the dataset was imbalanaced.
   - Ratio of dataset was (Pneumonia-75) : (Normal-25)
   - ![Performance](https://user-images.githubusercontent.com/55615788/118265208-6f67b280-b4d6-11eb-8fe8-c3f10f483200.JPG)
+  - From the above comparison, it can be concluded that VGG16 architecture outperfoms other architectures for this dataset.
 
 -> Deployment
   - Build a flask app to deploy the model on cloud platform HEROKU.
@@ -37,5 +38,5 @@ Pneumonia from xray.
 
 
 
-From the above comparison, it can be concluded that VGG16 architecture outperfoms other architectures for this dataset.
+
  
