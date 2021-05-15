@@ -27,6 +27,15 @@ Pneumonia from xray.
   - Ratio of dataset was (Pneumonia-75) : (Normal-25)
   - ![Performance](https://user-images.githubusercontent.com/55615788/118265208-6f67b280-b4d6-11eb-8fe8-c3f10f483200.JPG)
 
+-> Deployment
+  - Build a flask app to deploy the model on cloud platform HEROKU.
+  - Results
+  ![image](https://user-images.githubusercontent.com/55615788/118357994-63452900-b59a-11eb-9ead-9079747c1a22.png)
+  
+  
+  
+
+
 
 From the above comparison, it can be concluded that VGG16 architecture outperfoms other architectures for this dataset.
  
