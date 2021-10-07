@@ -1,4 +1,4 @@
-<h2>PNEUMONIA DETECTION using transfer learning</h2>
+<h2>Pneumonia detection using transfer learning</h2>
 
 Pneumonia is a leading cause of morbidity and mortality in children younger than the age of 5 years, killing more children than HIV/AIDS, malaria, and measles combined.
 Chest X-rays are primarily used for the diagnosis of this disease. However, even for a trained radiologist, it is a challenging task to examine chest X-rays. 
