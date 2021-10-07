@@ -1,1 +1,1 @@
-<h4> Computer Vision Projects </h4>
+<h1> Computer Vision Projects </h1>
