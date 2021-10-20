@@ -14,8 +14,8 @@ Pneumonia from xray.
   - Data augmentation can be very useful to avoid overfitting as it adds invariance in to the data and generates different images.
   - Here, I performed shear(0.2), rescaling, zoom(0.2), and Horizontal flip.
 
--> Data Training
-  - Data training is also a crucial part, which helps to learn patterns or features within data.
+-> Model Training
+  - Model training is also a crucial part, which helps to learn patterns or features within data.
   - In this project, I have used 4 different architectures to detect pneumonia in patient and compared their performances.
     - Basic Model with (3 convolutions and 3 pooling alternately)
     - VGG16 Architecture
