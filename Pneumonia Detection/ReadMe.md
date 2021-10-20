@@ -6,15 +6,15 @@ To solve the problem, we can use deep learning to extract hidden features, which
 extract and can classify whether a patient has a Pneumonia or not and can save a lot of time of Radiologists. In this project, I have used deep learning techniques to detect 
 Pneumonia from xray.
 
-1) Data Collection
+<b>1) Data Collection</b>
   - Finding medical data is a challenging task. However, nowadays many open source platforms provide the medical data for research.
   - This data is collected from kaggle website (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
   
-2) Data Preparation/Augmentation
+<b>2) Data Preparation/Augmentation</b>
   - Data augmentation can be very useful to avoid overfitting as it adds invariance in to the data and generates different images.
   - Here, I performed shear(0.2), rescaling, zoom(0.2), and Horizontal flip.
 
-3) Model Training
+<b>3) Model Training</b>
   - Model training is also a crucial part, which helps to learn patterns or features within data.
   - In this project, I have used 4 different architectures to detect pneumonia in patient and compared their performances.
     - Basic Model with (3 convolutions and 3 pooling alternately)
@@ -22,13 +22,13 @@ Pneumonia from xray.
     - RESNET Architecture
     - Inception net
 
-4) Perfomance Evaluation
+<b>4) Perfomance Evaluation</b>
   - To evaluate the performance of different models, I have used precision, recall, and F1 score as the dataset is imbalanced.
   - Ratio of dataset was (Pneumonia-75) : (Normal-25)
   - ![Performance](https://user-images.githubusercontent.com/55615788/118265208-6f67b280-b4d6-11eb-8fe8-c3f10f483200.JPG)
   - From the above comparison, it can be concluded that VGG16 architecture outperfoms other architectures for this dataset.
 
-5) Deployment
+<b>5) Deployment</b>
   - Using VGG16 model, build a flask app to deploy the model.
   - Results
   ![image](https://user-images.githubusercontent.com/55615788/118357994-63452900-b59a-11eb-9ead-9079747c1a22.png)
