@@ -1,11 +1,23 @@
-<h2>PNEUMONIA DETECTION USING TRANSFER LEARNING</h2>
+# PNEUMONIA DETECTION USING TRANSFER LEARNING
 
+### Introduction
 Pneumonia is a leading cause of morbidity and mortality in children younger than the age of 5 years, killing more children than HIV/AIDS, malaria, and measles combined.
 Chest X-rays are primarily used for the diagnosis of this disease. However, even for a trained radiologist, it is a challenging task to examine chest X-rays. 
 To solve the problem, we can use deep learning to extract hidden features, which are sometimes difficult to identify with naked eyes. Deep learning techniques can 
 extract and can classify whether a patient has a Pneumonia or not and can save a lot of time of Radiologists. In this project, I have used deep learning techniques to detect 
 Pneumonia from xray.
 
+### Methods Used
+- Data Augmentation
+- Image Classification
+- Deep Learning
+
+### Tools and Libraries
+- Python
+- Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Keras
+- Google Colab IDE
+
+### Project Flow
 <b>1) Data Collection</b>
   - Finding medical data is a challenging task. However, nowadays many open source platforms provide the medical data for research.
   - This data is collected from kaggle website (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
